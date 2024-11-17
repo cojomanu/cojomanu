@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @cojomanu
 - 👀 I’m interested in web_dev,automatics/robotics,IOT
-- 🌱 I’m currently learning webdev(both frontend,backend),OOP C++
+- 🌱 I’m currently learning webdev(both frontend,backend),OOP C++ , C#
 - 💞️ I’m looking to collaborate on internships
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
